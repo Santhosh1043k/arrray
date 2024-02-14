@@ -4,7 +4,7 @@ public class Main {
                 ar[0] =3;
                 ar[1] =5;
                 ar[3] =8;
-                ar[4] 9;
+                ar[4] =9;
 
         //this is the one method of creating an array
         int arr[] = {1,2,3};
